@@ -12,4 +12,4 @@
 * `Артикул` - унікальний текстовий ідентифікатор позиції (наприклад, `PT-001`, `BR-003`).
 * `Статус наявності` - поточний стан складу («В наявності», «Закінчується», «Під замовлення»).
 
-* * [База даних у Google Sheets](https://docs.google.com/spreadsheets/d/1KXPQ4h18Om0qwrPANGG6V3lRbdW4d5hDZtgEVYWL8RU/edit?usp=sharing) 
+* [База даних у Google Sheets](https://docs.google.com/spreadsheets/d/1KXPQ4h18Om0qwrPANGG6V3lRbdW4d5hDZtgEVYWL8RU/edit?usp=sharing) 
